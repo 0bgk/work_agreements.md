@@ -40,4 +40,4 @@ https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 
 ---
 
-[[Index|← Índice]] | [[Branch Management|Siguiente: 2. Branch Management →]]
+[← Índice](Index.md) | [Siguiente: 2. Branch Management →](Branch%20Management.md)

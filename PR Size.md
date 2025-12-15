@@ -25,4 +25,4 @@ Guideline orientativa para saber cuánto tiempo llevará revisar un PR. No es un
 
 ---
 
-[[Index|← Índice]] | [[Dependabot  o Renovate|Siguiente: 6. Dependabot o Renovate →]]
+[← Índice](Index.md) | [Siguiente: 6. Dependabot o Renovate →](Dependabot%20%20o%20Renovate.md)

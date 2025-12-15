@@ -53,4 +53,4 @@ Escanea el código buscando API keys, tokens o credenciales hardcodeadas. Seguri
 
 ---
 
-[[Index|← Índice]] | [[PR Description Templates|Siguiente: 4. PR Description Templates →]]
+[← Índice](Index.md) | [Siguiente: 4. PR Description Templates →](PR%20Description%20Templates.md)

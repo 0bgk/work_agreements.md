@@ -78,4 +78,4 @@ updates:
 
 ---
 
-[[Index|← Índice]] | [[Integración con Claude|Siguiente: 7. Integración con Claude →]]
+[← Índice](Index.md) | [Siguiente: 7. Integración con Claude →](Integración%20con%20Claude.md)

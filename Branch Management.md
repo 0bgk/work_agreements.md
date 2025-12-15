@@ -97,4 +97,4 @@ chore/PROJ-101-update-deps
 
 ---
 
-[[Index|← Índice]] | [[Pre-commit Hooks|Siguiente: 3. Pre-commit Hooks →]]
+[← Índice](Index.md) | [Siguiente: 3. Pre-commit Hooks →](Pre-commit%20Hooks.md)

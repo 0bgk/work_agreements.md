@@ -47,4 +47,4 @@ Documentar qué pasó (opcional pero recomendado)
 
 ---
 
-[[Index|← Volver al Índice]]
+[← Volver al Índice](Index.md)

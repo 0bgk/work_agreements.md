@@ -9,4 +9,4 @@ Aplicar las convenciones definidas en los work agreements con Claude en las dife
 
 ---
 
-[[Index|← Índice]] | [[Hotfix Workflow (guía)|Siguiente: Hotfix Workflow →]]
+[← Índice](Index.md) | [Siguiente: Hotfix Workflow →](Hotfix%20Workflow%20(guía).md)

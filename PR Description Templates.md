@@ -63,4 +63,4 @@ No existe un estándar oficial. Esto se basa en patrones comunes de React, Vue, 
 
 ---
 
-[[Index|← Índice]] | [[PR Size|Siguiente: 5. PR Size →]]
+[← Índice](Index.md) | [Siguiente: 5. PR Size →](PR%20Size.md)

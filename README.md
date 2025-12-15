@@ -18,7 +18,7 @@ Una colección de acuerdos de trabajo que estandarizan prácticas de desarrollo 
 
 ### Guías adicionales
 
-- **[Hotfix Workflow](Hotfix%20Workflow%20(guía).md)** - Proceso para correcciones urgentes en producción
+- **[Hotfix Workflow (guía)](Hotfix%20Workflow%20(guía).md)** - Proceso para correcciones urgentes en producción
 
 ## 🚀 Objetivo
 
