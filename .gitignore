@@ -1,0 +1,21 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+../assets/
+assets/
+images/
+
+*Por qué necesitamos*.md
+¿Por qué necesitamos*.md
+
+.DS_Store
+../../.obsidian/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
