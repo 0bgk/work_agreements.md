@@ -90,7 +90,6 @@ chore/PROJ-101-update-deps
 
 ## Referencia
 
-- Semantic commit messages: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 - GitHub Flow: [https://docs.github.com/en/get-started/using-github/github-flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - Trunk Based Development: [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/)
 
